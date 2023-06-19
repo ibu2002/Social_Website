@@ -1,0 +1,12 @@
+html, body, h1, h2, h3, h4, h5 {
+    font-family: "Open Sans", sans-serif
+}
+.txtHover:hover {
+    color: red;
+}
+.eventBg {
+    background-color: lightcyan;
+}
+.eventHow:hover {
+    color: brown;
+}
